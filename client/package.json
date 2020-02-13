@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
-  "homepage": "http://patrik-drean.github.io/todo-example",
+  "homepage": "http://isaacloveschicken.github.io/todo-example/",
   "dependencies": {
     "axios": "^0.16.2",
     "react": "^15.6.1",
